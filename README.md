@@ -5,7 +5,7 @@ Light painting with AR Drone quadrocopter
 
 ## Description
 
-Quick and dirty implementation of image contour light painting with AR.Drone quadrocopter.
+Quick and dirty implementation of image contour light painting with AR.Drone quadrocopter. Put LEDs on your drone, and shot it while its flying a given trajectory.
 
 To communicate with the device uses a python-ardrone library, can be found here: https://github.com/venthur/python-ardrone
 
