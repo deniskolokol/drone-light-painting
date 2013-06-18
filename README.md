@@ -40,6 +40,10 @@ WARNING! At its current state droneman.py doesn't have any tool for controlling 
 
 Adapted for drone light painting from demo.py that can be found in the library python-ardrone https://github.com/venthur/python-ardrone. In case something goes wrong while the Drone is flying, keyboard reset stops it, interrupting the score and sending the “hover” command. You can then safely land the drone.
 
+To start type:
+
+`$ python droneman.py`
+
 For additional information on the drone commands, refer to the README of the python-ardrone library.
 
 IT IS STRONGLY RECOMMENDED TO USE THIS SCRIPT FOR TEST FLIGHTS!
