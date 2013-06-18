@@ -34,7 +34,7 @@ To start type:
 
 `$ python droneman.py`
 
-WARNING! At its current state droneman.py doesn't have any tool for controlling drone while it's flying. Depending on the instructions it can be harmful for your Drone! For test flights use dronedemo.py (see below).
+WARNING! In its current state droneman.py doesn't have any tool for controlling drone while it's flying. Depending on the instructions it can be harmful for your Drone! For test flights use dronedemo.py (see below).
 
 ### dronedemo.py
 
