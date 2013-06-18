@@ -50,6 +50,6 @@ IT IS STRONGLY RECOMMENDED TO USE THIS SCRIPT FOR TEST FLIGHTS!
 
 ## Additional information
 
-Realized as a part of ICAP program at the University of New Mexico, Albuquerque NM.
+Realized in the residency of ICAP program at the University of New Mexico, Albuquerque NM.
 
 Author: Denis Kolokol.
